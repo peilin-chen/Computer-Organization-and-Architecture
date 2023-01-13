@@ -1,0 +1,22 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/Users/Administrator/VivadoProjects/lab2/lab2.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sim_1/new/alu_tb.v,1668607617,verilog,,,,alu_tb,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sim_1/new/cpu_tb.v,1668577530,verilog,,,,cpu_tb,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sim_1/new/cu_tb.v,1668607895,verilog,,,,cu_tb,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/alu.v,1668576207,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sim_1/new/alu_tb.v,,alu,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/cpu.v,1668585889,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/cpu_top.v,,cpu,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/cpu_top.v,1668577579,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/cu.v,,cpu_top,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/cu.v,1668593363,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sim_1/new/cu_tb.v,,cu,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/datatempstore.v,1668524015,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/dmem.v,,datatempstore,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/dmem.v,1668585933,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/equal.v,,dmem,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/equal.v,1668524228,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/imem.v,,equal,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/imem.v,1668523609,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/mux.v,,imem,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/mux.v,1668524123,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/npc.v,,mux,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/npc.v,1668523373,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/pc.v,,npc,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/pc.v,1668605744,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/regfile.v,,pc,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/regfile.v,1668523666,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/signextension.v,,regfile,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/signextension.v,1668585471,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/writebackaddrmux.v,,signextension,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sources_1/new/writebackaddrmux.v,1668585966,verilog,,D:/Users/Administrator/VivadoProjects/lab2/lab2.srcs/sim_1/new/cpu_tb.v,,writebackaddrmux,,,,,,,,
