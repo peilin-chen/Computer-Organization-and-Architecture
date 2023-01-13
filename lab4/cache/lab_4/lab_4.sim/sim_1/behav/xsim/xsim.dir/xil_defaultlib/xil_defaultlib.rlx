@@ -1,0 +1,11 @@
+0.6
+2019.2
+Nov  6 2019
+21:57:16
+D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.sim/sim_1/behav/xsim/glbl.v,1573089660,verilog,,,,glbl,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sim_1/new/cache_tb.v,1670290151,verilog,,,,cache_tb,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sources_1/ip/axi/sim/axi.v,1670226242,verilog,,D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sources_1/ip/inst_ram/sim/inst_ram.v,,axi,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sources_1/ip/inst_ram/sim/inst_ram.v,1670226288,verilog,,D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sources_1/new/cache.v,,inst_ram,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sources_1/new/cache.v,1670319000,verilog,,D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sources_1/new/icache_data.v,,cache,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sources_1/new/icache_data.v,1670295539,verilog,,D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sources_1/new/icache_tagv.v,,icache_data,,,,,,,,
+D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sources_1/new/icache_tagv.v,1670295531,verilog,,D:/Users/Administrator/VivadoProjects/lab4/cache/lab_4/lab_4.srcs/sim_1/new/cache_tb.v,,icache_tagv,,,,,,,,
